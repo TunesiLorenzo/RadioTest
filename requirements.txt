@@ -1,0 +1,5 @@
+pyrtlsdr[lib]>=0.5.1
+numpy
+scipy
+matplotlib
+sounddevice
